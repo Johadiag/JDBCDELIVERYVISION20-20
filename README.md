@@ -6,7 +6,7 @@ TECNOLOGIA PRINCIPAL
 JDBC: Para este proyecto se aplicó la teoría JDBC (Java Database Connectivity) como la tecnología principal para la conexión con la base de datos MySQL
 
 
-VENTAJAS
+### Ventajas de JDBC
 
 
 •	Conectividad Sencilla: JDBC permite la conexión fácil y directa con bases de datos, lo que facilita la gestión de datos como facturas, clientes y productos.
@@ -46,15 +46,18 @@ Base de datos MySQL
 XAMPP (para el servidor MySQL)
 IDEA de IntelliJ
 
-Estado del Proyecto
-✅Finalizado.
-🔄 Última actualización: 02/04/2024.
-🚫 No se han detectado errores.
-🌐 Se conecta a la base de datos alojada en localhost:3306/mi_db.
-Próximas características
+## Estado del Proyecto
+
+- ✅ Finalizado.
+- 🔄 Última actualización: 04/02/2024.
+- 🚫 No se han detectado errores.
+- 🌐 Se conecta a la base de datos alojada en localhost:3306/mi_db.
+
+
+## Próximas Características
+
 En futuras versiones, se planea:
 
-🌐 Implementar una interfaz web utilizando servlets y HTML.
-🔄 Mejorar la experiencia del usuario con una interfaz más amigable.
-
+- 🌐 Implementar una interfaz web utilizando servlets y HTML.
+- 🔄 Mejorar la experiencia del usuario con una interfaz más amigable.
 
