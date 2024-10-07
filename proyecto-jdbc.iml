@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<módulo tipo="MÓDULO JAVA" versión="4">
+<componente nombre="NuevoModuleRootManager" heredar-salida-del-compilador="verdadero">
+ <excluir salida/>
+    <contenido URL="archivo://$DIR_MÓDULO$">
+      <carpeta de origen URL="archivo://$DIR_MÓDULO$/src" esFuente de prueba="FALSO"/>
+    </contenido>
+    <Orden de entrada tipo="Jdk heredado"/>
+    <Orden de entrada tipo="carpeta de origen" para pruebas="FALSO"/>
+    <Orden de entrada tipo="biblioteca de módulos">
+      <biblioteca>
+        <CLASES>
+          <raíz URL="jar://$DIR_MÓDULO$/lib/mysql-connector-j-8.3.0.jar!/"/>
+        </CLASES>
+        <JAVADOC/>
+        <FUENTES/>
+      </biblioteca>
+    </Orden de entrada>
+  </componente>
+</módulo>
