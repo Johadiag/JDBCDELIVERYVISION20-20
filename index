@@ -1,0 +1,43 @@
+<?php include 'verificar-sesion.php';?>
+<?php include 'layouts/head-main.php';?>
+<head>
+<title><?php echo $languague["Dashboard"]; ?> |Software Facturación Delivery Vision 20/20</title>
+        <?php include 'layouts/head-style.php'; ?>
+</head>
+<?php include 'layouts/body.php'; ?>
+<!-- Inicio de pagina -->
+<div id="layout-wrapper">
+    <?php include 'layouts/menu.php' ; ?>
+    <div class="main-content">
+        <div class="page-content">
+            <div class="container-fluid">
+
+            <?php
+            $maintitle = 'Software Facturación';
+            $title ='inicio';
+            ?>
+            <?php include 'layouts/breadcrumb.php';?>
+
+            <!-- espacio descripcion del sistema  -->
+
+            <div class='row'>
+                <div class='col-xl-4'>
+                    <div class='card bg-primary'>
+                        <div class='card-body'>
+                            <div class='text-center py-3'>
+                                <ul class='bg-bubbles ps-0'>
+                                    <li><i class='bx bx-grid-alt front-size-24'></i></li>
+                                        <li><i class='bx bx-tachometer font-size-24'></i></li>
+                                            <li><i class='bx bx-store font-size-24'></i></li>
+                                                <li><i class='bx bx-cube font-size-24'></i></li>
+                                                    <li><i class= 'bx bx-cylinder font-size-24'></i></li>
+                                                        <li><i class='bx bx-command font-size-24'></i></li>
+                                                            <li><i class='bx bx-hourglass font-size-24'></i></li>
+                                                            <li><i class='bx bx-pie-chart-alt font-size-24'></i></li>
+                                                            <li><i class='bx bx-coffe font-size-24'></i></li>
+                                                            <li><i class='bx bx-polygon font-size-24'></i></li>
+</ul>
+<div class='main-wid position-relative'>
+    <h3 class='text-white'>Software Facturación Delyvery Vision 20/20</h3>
+    <h3 classs='text-white mb-0'> Bienvenidos!</h3>
+    <p class='text-white-50 px mt-4'>¡Bienvenido al software de facturacion Delivery Vision 20/20!</p>
